@@ -1,4 +1,4 @@
 allprojects {
-    group 'net.stzups.config'
-    version '1.0'
+    group = 'net.stzups.config'
+    version = '1.0'
 }
