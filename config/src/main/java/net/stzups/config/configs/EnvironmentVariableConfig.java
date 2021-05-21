@@ -2,8 +2,6 @@ package net.stzups.config.configs;
 
 import net.stzups.config.ConfigProvider;
 
-import java.util.Objects;
-
 public class EnvironmentVariableConfig implements ConfigProvider {
     private final String prefix;
 

@@ -6,7 +6,6 @@ import java.io.File;
 import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
-import java.util.logging.Level;
 
 /**
  * Loads a file that should be formatted as a Java {@link Properties} file, and adds any values defined in that value.
